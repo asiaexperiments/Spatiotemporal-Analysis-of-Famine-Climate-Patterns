@@ -1,0 +1,20 @@
+// Spatiotemporal Data Pipeline
+digraph {
+	A [label="1. Data Collection
+(Dryad, FAO, ReliefWeb)"]
+	B [label="2. Cleaning & Integration
+(Merge by location/time)"]
+	C [label="3. Feature Engineering
+(Create climate & famine indicators)"]
+	D [label="4. Spatiotemporal Analysis
+(GIS, clustering, trend analysis)"]
+	E [label="5. Visualization
+(Maps, heatmaps, timelines)"]
+	F [label="6. (Optional) Prediction
+(Risk zones, early warnings)"]
+	A -> B
+	B -> C
+	C -> D
+	D -> E
+	E -> F [style=dashed]
+}
