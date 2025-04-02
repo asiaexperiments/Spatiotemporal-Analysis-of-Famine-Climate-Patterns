@@ -1,0 +1,74 @@
+Station,Month,Long Term Mean,2018,2019,First Day of Month
+#station+name,#date+month,#severity+mean,#severity+year2018,#severity+year2019,#date
+Baardheere,Jan,4.4,37,0,2019-01-01
+Baardheere,Feb,9,52,0,2019-02-01
+Baardheere,Mar,34,95,0,2019-03-01
+Baardheere,Apr,143.3,182,0,2019-04-01
+Baardheere,May,208.6,182,8,2019-05-01
+Baardheere,Jun,217.6,182,8,2019-06-01
+Baardheere,July,230.3,182,8,2019-07-01
+Baardheere,Aug,235.7,182,8,2019-08-01
+Baardheere,Sep,242.7,182,72,2019-09-01
+Baardheere,Oct,315.8,294,204,2019-10-01
+Baardheere,Nov,418,319,211,2019-11-01
+Baardheere,Dec,437.1,354,.,2019-12-01
+Belet Weyne,Jan,0.1,0,0,2019-01-01
+Belet Weyne,Feb,0.2,0,0,2019-02-01
+Belet Weyne,Mar,7.6,0,0,2019-03-01
+Belet Weyne,Apr,81.3,282.5,0,2019-04-01
+Belet Weyne,May,158.5,327,189,2019-05-01
+Belet Weyne,Jun,173.6,327,196,2019-06-01
+Belet Weyne,July,173.9,327,196,2019-07-01
+Belet Weyne,Aug,175.2,327,196,2019-08-01
+Belet Weyne,Sep,185.1,327,196,2019-09-01
+Belet Weyne,Oct,271.9,381,321.5,2019-10-01
+Belet Weyne,Nov,309.6,410,368,2019-11-01
+Belet Weyne,Dec,314.6,425,.,2019-12-01
+Jowhar,Jan,0,0,0,2019-01-01
+Jowhar,Feb,3.8,5,0,2019-02-01
+Jowhar,Mar,11.9,42,16,2019-03-01
+Jowhar,Apr,128.8,134,44,2019-04-01
+Jowhar,May,287.8,322,63,2019-05-01
+Jowhar,Jun,377.9,344,77,2019-06-01
+Jowhar,July,414.8,344,92,2019-07-01
+Jowhar,Aug,428.7,390,92,2019-08-01
+Jowhar,Sep,449.8,390,105,2019-09-01
+Jowhar,Oct,523.5,436,207,2019-10-01
+Jowhar,Nov,595.9,460,.,2019-11-01
+Jowhar,Dec,625,501,.,2019-12-01
+Borama,Jan,5.2,0,0,2019-01-01
+Borama,Feb,31.1,0,0,2019-02-01
+Borama,Mar,71.7,7,0,2019-03-01
+Borama,Apr,164.7,151.5,31.5,2019-04-01
+Borama,May,227.1,311,130.5,2019-05-01
+Borama,Jun,257,335,149.5,2019-06-01
+Borama,July,331,420.5,215,2019-07-01
+Borama,Aug,444.4,472.5,400.5,2019-08-01
+Borama,Sep,525.3,472.5,493,2019-09-01
+Borama,Oct,543.6,544,541,2019-10-01
+Borama,Nov,553.8,544,541,2019-11-01
+Borama,Dec,558.6,544,.,2019-12-01
+Gaalkacyo,Jan,0.5,0,0,2019-01-01
+Gaalkacyo,Feb,0.9,0,0,2019-02-01
+Gaalkacyo,Mar,6.3,1,0,2019-03-01
+Gaalkacyo,Apr,39.7,23.5,16,2019-04-01
+Gaalkacyo,May,98.1,38.5,62.5,2019-05-01
+Gaalkacyo,Jun,104.9,38.5,70.5,2019-06-01
+Gaalkacyo,July,105.6,38.5,70.5,2019-07-01
+Gaalkacyo,Aug,106.8,38.5,70.5,2019-08-01
+Gaalkacyo,Sep,110.8,38.5,98.5,2019-09-01
+Gaalkacyo,Oct,166.6,48.5,112.5,2019-10-01
+Gaalkacyo,Nov,183.3,48.5,120,2019-11-01
+Gaalkacyo,Dec,185.5,48.5,.,2019-12-01
+Baidoa,Jan,2.4,0,0,2019-01-01
+Baidoa,Feb,6.5,15,0,2019-02-01
+Baidoa,Mar,28.2,110,8,2019-03-01
+Baidoa,Apr,183.3,338.5,46.5,2019-04-01
+Baidoa,May,291.9,417.5,220.2,2019-05-01
+Baidoa,Jun,308.6,438,224.2,2019-06-01
+Baidoa,July,325.2,451.5,237.7,2019-07-01
+Baidoa,Aug,333,461.6,242.7,2019-08-01
+Baidoa,Sep,346.8,466.6,255.1,2019-09-01
+Baidoa,Oct,481.9,560.1,548,2019-10-01
+Baidoa,Nov,568,619.6,692.5,2019-11-01
+Baidoa,Dec,578.3,631.1,.,2019-12-01
